@@ -1,0 +1,20 @@
+C:\Users\SGC\source\repos\Sorting App\Sorting App\bin\Debug\Sorting App.exe.config
+C:\Users\SGC\source\repos\Sorting App\Sorting App\bin\Debug\Sorting App.exe
+C:\Users\SGC\source\repos\Sorting App\Sorting App\bin\Debug\Sorting App.pdb
+C:\Users\SGC\source\repos\Sorting App\Sorting App\obj\Debug\Sorting App.csprojAssemblyReference.cache
+C:\Users\SGC\source\repos\Sorting App\Sorting App\obj\Debug\Sorting_App.FormMain.resources
+C:\Users\SGC\source\repos\Sorting App\Sorting App\obj\Debug\Sorting_App.Properties.Resources.resources
+C:\Users\SGC\source\repos\Sorting App\Sorting App\obj\Debug\Sorting App.csproj.GenerateResource.cache
+C:\Users\SGC\source\repos\Sorting App\Sorting App\obj\Debug\Sorting App.csproj.CoreCompileInputs.cache
+C:\Users\SGC\source\repos\Sorting App\Sorting App\obj\Debug\Sorting App.exe
+C:\Users\SGC\source\repos\Sorting App\Sorting App\obj\Debug\Sorting App.pdb
+C:\Users\SGC\Desktop\Sorting App\Sorting App\bin\Debug\Sorting App.exe.config
+C:\Users\SGC\Desktop\Sorting App\Sorting App\bin\Debug\Sorting App.exe
+C:\Users\SGC\Desktop\Sorting App\Sorting App\bin\Debug\Sorting App.pdb
+C:\Users\SGC\Desktop\Sorting App\Sorting App\obj\Debug\Sorting App.csprojAssemblyReference.cache
+C:\Users\SGC\Desktop\Sorting App\Sorting App\obj\Debug\Sorting_App.FormMain.resources
+C:\Users\SGC\Desktop\Sorting App\Sorting App\obj\Debug\Sorting_App.Properties.Resources.resources
+C:\Users\SGC\Desktop\Sorting App\Sorting App\obj\Debug\Sorting App.csproj.GenerateResource.cache
+C:\Users\SGC\Desktop\Sorting App\Sorting App\obj\Debug\Sorting App.csproj.CoreCompileInputs.cache
+C:\Users\SGC\Desktop\Sorting App\Sorting App\obj\Debug\Sorting App.exe
+C:\Users\SGC\Desktop\Sorting App\Sorting App\obj\Debug\Sorting App.pdb
